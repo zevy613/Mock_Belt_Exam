@@ -6,3 +6,7 @@ https://docs.google.com/presentation/d/184a-w4F7Ux3a2u5gArEba3zu0Zb8Q4khNNPQVZY8
 
 solution
 https://github.com/coding-dojo-data-science/data-enrichment-mock-belt-exam
+
+
+other solution
+https://github.com/coding-dojo-data-science/data-enrichment-wk15-lect02-activity
